@@ -1,0 +1,10 @@
+﻿{
+  "name": "InventoryKeeper",
+  "description": "Keep your inventory after death",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "BepInEx-BepInExPack_Core_Keeper-2.1.0",
+    "CoreMods-CoreLib-2.0.1"
+  ],
+  "website_url": ""
+}
