@@ -15,4 +15,4 @@ Then just click **Start modded**, and the game will run with the mod installed.
 ### Manually
 Install BepInEx Pack from [here](https://core-keeper.thunderstore.io/package/BepInEx/BepInExPack_Core_Keeper/)<br/>
 
-Unzip all files into `Core Keeper\BepInEx\plugins\KInventoryKeeper/` (Create folder named `InventoryKeeper`)<br/>
+Unzip all files into `Core Keeper\BepInEx\plugins\InventoryKeeper/` (Create folder named `InventoryKeeper`)<br/>
